@@ -1,0 +1,18 @@
+
+#resume-title {
+    font-size: 18px;
+    border: 0px;
+}
+
+img {
+    width: 120px;
+}
+
+p {
+    color: black;
+}
+
+a, a:hover {
+    color: black;
+    text-decoration: none; /* no underline */
+}

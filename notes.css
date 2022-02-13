@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Honey;
+    src: url("honeyflorist.otf") format("opentype");
+}
+body {
+	background-color: #ffff88;
+	font-family: Hectavia;
+}
